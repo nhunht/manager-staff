@@ -254,7 +254,7 @@ const styles = StyleSheet.create({
     borderTopRightRadius: 36,
     backgroundColor: Color.white,
     width: "100%",
-    minHeight: 650,
+    minHeight: 550,
     alignItems: "center",
   },
 });
